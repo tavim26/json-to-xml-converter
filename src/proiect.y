@@ -121,9 +121,8 @@ array:
 array_elements:
     value
     {
-
-        // genereaza un tag <item>valoare</item>
-        size_t len = strlen($1) + 10;
+        // "<item>" (6) + "</item>" (7) + "\n" (1) + '\0' (1) = 15
+        size_t len = strlen($1) + 15;
         $$ = malloc(len);
         snprintf($$, len, "<item>%s</item>\n", $1);
         free($1);
