@@ -1,9 +1,0 @@
-{
-  "nume": "Ana Popescu",
-  "varsta": 30,
-  "oras": "Cluj-Napoca",
-  "email": "ana.popescu@example.com",
-  "student": "true",
-  "media": 9,
-  "facultate": "Informatica"
-}

@@ -1,0 +1,5 @@
+{
+  "languages": ["C", "Python", "Java"],
+  "scores": [95, 87.5, 100],
+  "flags": [true, false, null]
+}

@@ -1,0 +1,24 @@
+{
+  "store": {
+    "name": "Tech Corner",
+    "open": true,
+    "rating": 4.7,
+    "products": [
+      {
+        "sku": "LAP-001",
+        "title": "Laptop Pro 15",
+        "price": 1299.99,
+        "tags": ["electronics", "computers"],
+        "stock": { "warehouse": 12, "store": 3 }
+      },
+      {
+        "sku": "MOU-042",
+        "title": "Wireless Mouse",
+        "price": 24.5,
+        "tags": [],
+        "stock": { "warehouse": 0, "store": 18 }
+      }
+    ],
+    "manager": null
+  }
+}

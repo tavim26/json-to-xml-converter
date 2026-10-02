@@ -1,0 +1,10 @@
+{
+  "user": {
+    "name": "Alice Brown",
+    "address": {
+      "street": "221B Baker Street",
+      "city": "London",
+      "zip": "NW1 6XE"
+    }
+  }
+}
